@@ -17,3 +17,11 @@ When you are working on a new big feature
 How do the diagrams help you visualize the branch structure?
 
 you get an anderstanding to where you can go back
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+to align the code and merge a new feature.
+
+What are the pros and cons of Git.s automatic merging vs. always doing merges manually?
+
+You can fix code of lines that have been changed from multiple users.
